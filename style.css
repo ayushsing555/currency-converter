@@ -75,8 +75,10 @@ input{
     width: 60px;
     /* margin-bottom: 30px; */
 }
-
-
+.contain{
+    max-width:100%;
+    height:auto;
+}
 
 
 
